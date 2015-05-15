@@ -1,0 +1,8 @@
+.hd_image_thumb {
+    cursor: pointer;
+    display: block;
+}
+
+.hd_image_list {
+    display:table;
+}
